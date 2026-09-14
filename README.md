@@ -22,11 +22,8 @@ Physiological modalities alone — HRV (AUC = 0.429) and actigraphy (AUC = 0.594
 .
 ├── README.md
 ├── requirements.txt
-└── notebooks/
-    ├── HYPERAKTIV_ML_pipeline.ipynb            ← main, canonical notebook (Phases 0–7)
-    └── archive/                                 ← earlier iterations, kept for provenance only
-        ├── 4_15_early_draft.ipynb
-        └── HYPERAKTIV_SPECTRUM_early_draft.ipynb
+└── HYPERAKTIV_ML_pipeline.ipynb            ← main, canonical notebook (Phases 0–7)
+
 ```
 
 ## Pipeline overview (`notebooks/HYPERAKTIV_ML_pipeline.ipynb`)
